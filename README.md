@@ -1,4 +1,14 @@
 ### Hi there 👨‍💻, I'm Shreyas!
+
+<a href="https://www.linkedin.com/in/shreyasnmhatre/">
+  <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/shreyasnmhatre">
+  <img align="left" alt="Shreyas Mhatre | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/wideangle_life_/">
+  <img align="left" alt="Shreyas's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 - 🌱 I’m currently learning ML/DS
 <!--
 **shreyasnmhatre/shreyasnmhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
