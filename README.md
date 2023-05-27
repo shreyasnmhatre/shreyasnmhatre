@@ -11,6 +11,8 @@
 </a>
 <br/><br/>
 - 🌱 I’m currently learning ML/DS
+I have recently completed MTech in Mechatronics with specialization in IoT, Robotics and AI from Symbiosis Skills and Professional University.
+
 <!--
 **shreyasnmhatre/shreyasnmhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
