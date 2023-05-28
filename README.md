@@ -11,6 +11,7 @@
 </a>
 <br/><br/>
 - 🌱 I’m currently learning ML/DS
+<br/>
 I have recently completed MTech in Mechatronics with specialization in IoT, Robotics and AI from Symbiosis Skills and Professional University.
 
 <!--
