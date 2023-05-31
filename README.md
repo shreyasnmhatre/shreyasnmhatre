@@ -1,4 +1,4 @@
-### Hi there 👨‍💻, I'm Shreyas!
+### Hi there 👨‍💻,  I'm Shreyas!
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/shreyasnmhatre/">
   <img align="left" alt="Shreyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
