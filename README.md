@@ -28,3 +28,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 GitHub Stats
+
+<div style="display: flex; flex-direction: row;">
+  <a href="#">
+  </a>
+  <a href="#">
+  <img align="left" alt="Chaitanya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnmhatre&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px">
+</a>
+</div>
