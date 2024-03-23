@@ -6,11 +6,11 @@
 <a href="https://twitter.com/shreyasnmhatre">
   <img align="left" alt="Shreyas Mhatre | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/wideangle_life_/">
+<a href="https://www.instagram.com/shreyasnmhatre/">
   <img align="left" alt="Shreyas's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <br/><br/>
-- 🌱 I’m currently learning ML/DS
+  
 <br/>
 I have recently completed MTech in Mechatronics with specialization in IoT, Robotics and AI from Symbiosis Skills and Professional University.
 
